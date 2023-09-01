@@ -18,7 +18,7 @@ The concept of this project is moving all the Matlab and part of the R portions 
 To demonstrate this, I considered an example experiment of the kind I would normally program, a variation on the additional singleton paradigm (Theeuwes, 1992). I mention it just for reference, the code for the experiment itself is not in this repository, since it is an online experiment and it is partly coded with the "builder" GUI of psychopy - strongly recommended for experiments that need to run online. 
 
 To check out the material, download the two folders in this repository.
-- the "scripts" folder contains two .ipynb files:
+The "scripts" folder contains two .ipynb files:
   - compiler_pycourse_project.ipynb compiles a condition file for the experiment with the required variables.
     After running it you should end up with a file named "Conditions.xlsx" in a folder of choice.
     It would be then loaded with the aforementioned "builder" GUI of psychopy.
